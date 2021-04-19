@@ -68,3 +68,44 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+#### POST
+
+const posts = [
+    {
+        id:0,
+        upvote : 577,
+        image: "",
+        title: "選舉最大的秘密",
+        user: "qoo2100",
+        host: "李登輝",
+        partner: "李小龍",
+        subreddit: "popo",
+        comment_count: 284,
+    }
+
+]
+#### title
+
+這是一個提供點子的表單，主要徵求的是「內部直播」與「講座」的建議，其實初步我們比較想徵求的是直播內容有關的提案，隨著提案越多，越可以統整出類型相同的主題，這樣就更可以做出系列型的主題分享，比方說一個月4次的跟"投資"有關的主題。
+
+每次直播都會建議至少是兩個人的，一主一副，主要的人會承擔八成以上內容分享，副手則比較偏聆聽者的角色，會負責回應講者或讀出問題或加強提問。這樣也可以不至於單人那麼疲累。
+
+由於我們不希望是無效的提議，所以必須記名提案。這樣也方便我們在日後可以隆重感謝你的點子。
+
+我們也有規劃，日後把這個表單形式改成瀏覽與操作方便的網頁，豐富這個優良的互動生態。
+
+所以在這個表單你必須提供，
+1.你是誰
+2.提案主題，3到10字都可以
+3.推薦主講人
+4.推薦講者夥伴
+
+非常感謝你。
+行銷組
+
+
+
+
